@@ -9,7 +9,6 @@ The roadmap for AL-Go for GitHub can be found here: [https://aka.ms/ALGoRoadmap]
 Release notes for all versions of AL-Go for GitHub can be found [here](./RELEASENOTES.md).
 
 Deprecations for all versions of AL-Go for GitHub can be found [here](./DEPRECATIONS.md).
-
 test
 
 The template repositories to use as starting point are:
