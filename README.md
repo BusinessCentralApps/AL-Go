@@ -10,6 +10,8 @@ Release notes for all versions of AL-Go for GitHub can be found [here](./RELEASE
 
 Deprecations for all versions of AL-Go for GitHub can be found [here](./DEPRECATIONS.md).
 
+test
+
 The template repositories to use as starting point are:
 
 - [https://github.com/microsoft/AL-Go-PTE](https://github.com/microsoft/AL-Go-PTE) or [https://aka.ms/algopte](https://aka.ms/algopte) is the GitHub repository template for Per Tenant Extensions. When creating a Per Tenant Extensions, this is your starting point.
